@@ -1,0 +1,14 @@
+ /* css document */
+ p {
+  color: orange;
+  font-size: 14px;
+  font-style: normal;
+} 
+ h1 {
+   color:red;
+   font-size: 18px;
+   font-style:italic;
+ }
+ body  {
+   background-color: blue;
+ } 
